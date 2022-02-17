@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning C# , .NET.
 - 👯 I’m looking to collaborate on .NET projects.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about C# ,.NET.
 - 📫 How to reach me: 
 - My email: okan.arik@icloud.com
