@@ -1,4 +1,4 @@
-### Hi there, Okan arık 👋
+### Hi there. I'm Okan Arık 👋
 
 
 - 🌱 I’m currently learning C# , .NET.
