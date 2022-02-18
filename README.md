@@ -1,6 +1,8 @@
 ### Hi there. I'm Okan Arık 👋<br>
 
-![success](https://user-images.githubusercontent.com/89224500/154579757-fe758290-c212-458d-834a-ff4b4d10b8a1.png)<br>
+![Success](https://user-images.githubusercontent.com/89224500/154701090-ed69e95e-0a2d-4853-b163-218bb12f8cad.png)
+
+<br>
 
 
 - 🌱 I’m currently learning C# , .NET.
